@@ -62,7 +62,7 @@ Handles the display and updating of the score.
 - Various online resources and tutorials for inspiration and guidance.
 ## Screenshot
 
-Here's a preview of the Weather App:
+Here's a preview of the Snake App:
 
 ![Application Screenshot](images/img.png)
 
